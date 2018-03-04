@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/tau.js"></script>
+  <title>Title</title>
+</head>
+
+<body>
+
+  <div class="center">
+    <h2>Select Game Type</h2>
+
+    <select class="div-toggle" data-target=".game-type">
+      <option>Game Type</option>
+      <option data-show=".open">Open Play</option>
+      <option data-show=".narrative">Narrative Play</option>
+      <option value="match" data-show=".match">Match Play</option>
+    </select>
+
+    <div class="game-type">
+
+      <div class="open hide">
+        <ul>
+          <li>Ideal way of gaming when you have multiple players who want to get involved in a battle all at once.</li>
+          <li>Can incorporating any of the rules or guidelines that appear in this and other Warhammer 40,000 books.</li>
+        </ul>
+      </div>
+
+      <div class="narrative hide">
+        <ul>
+          <li>Narrative play is based around the stories embedded in the background of Warhammer 40,000</li>
+        </ul>
+      </div>
+
+      <div class="match hide">
+        <ul>
+          <li>Use battle forged armies rules as out lined on (page 240) and grand players Command Points (page 242)</li>
+          <li>Armies balanced by agreeing on a set power, point, or any other characteristic they’d like.</li>
+          <li>Players have access to Stratagems.</li>
+          <li>Use Eternal War and Maelstrom of War missions</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="center">
+
+      <select class="div-toggle" data-target=".army-type">
+        <option>Select Army</option>
+        <option data-show=".space-marines">Space Marines</option>
+        <option data-show=".ultramarines">Ultramarines</option>
+        <option value="match" data-show=".blood-angels">Blood Angels</option>
+        <option data-show=".dark_angels">Dark Angels</option>
+        <option data-show=".deathwatch">Deathwatch</option>
+        <option data-show=".deathwatch">Gray Knights</option>
+        <option data-show=".deathwatch">Space Wolves</option>
+        <option data-show=".deathwatch">Astra Militarum</option>
+        <option data-show=".deathwatch">Adeptus Ministrum</option>
+        <option data-show=".deathwatch">Adeptus Custodes</option>
+        <option data-show=".deathwatch">Sisters of Silence</option>
+        <option data-show=".deathwatch">Adeptus Mechanicus</option>
+        <option data-show=".deathwatch">Inquisition</option>
+        <option data-show=".deathwatch">Imperial Knights</option>
+        <option data-show=".deathwatch">Officio Assassinorum</option>
+        <option data-show=".deathwatch">Chaos Space Marines</option>
+        <option data-show=".deathwatch">Death Guard</option>
+        <option data-show=".deathwatch">Thousand Sons</option>
+        <option data-show=".deathwatch">Renegade Knights</option>
+        <option data-show=".deathwatch">Chaos Daemons</option>
+        <option data-show=".deathwatch">Orks</option>
+        <option data-show=".deathwatch">Harlequins</option>
+        <option data-show=".ynnari">Ynnari</option>
+        <option data-show=".necrons">Necrons</option>
+        <option data-show=".tau">T'au Empire</option>
+        <option data-show=".tyranids">Tyranids</option>
+        <option data-show=".deathwatch">Genestealer Cults</option>
+        <option data-show=".craftworlds">Craftworlds</option>
+        <option data-show=".drukhari">Drukhari</option>
+      </select>
+
+  </div>
+
+</body>

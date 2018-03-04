@@ -1,0 +1,43 @@
+[
+ {
+   "name": "Commander",
+   "Models Per Unit": "1",
+   "Points": "76",
+   "Power": "6",
+   "Movement": "8\"",
+   "Weapon Skill": "3+",
+   "Balistic Skill": "2+",
+   "Strength": "5",
+   "Toughness": "5",
+   "Wounds": "6",
+   "Attacks": "4",
+   "Leadership": "9",
+   "Saves": "3+",
+   "Abilites": "For the Greater Good, Master of War, Manta Strike",
+   "Faction Keywords": "T'au Empire, <Sept>",
+   "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+
+   "Weapons": [
+     "Airbursting Fragmentation Projector",
+     "Burst Cannon",
+     "Cyclic Ion Blaster",
+     "Flamer",
+     "Fusion Blaster",
+     "Missile Pod",
+     "Plasma Rifle"
+   ],
+
+   "Support System": [
+     "Advanced Targeting System",
+     "Counterfire Defence System",
+     "Drone Controller",
+     "Early Warning Override",
+     "Multi-tracker",
+     "Shield Generator",
+     "Stimulant Injector",
+     "Target Lock",
+     "Velocity Tracker"
+   ]
+ }
+
+]
