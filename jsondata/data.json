@@ -1,11 +1,11 @@
 {
-	"hq": "Commander,Commander in XV86 Coldstar Battlesuit,Ethereal,Cadre Fireblade,Commander Farsight,Commander Shadowsun,Aun’Shi,Aun’Va,LONGSTRIKE",
-	"troops": "Strike Team,Breacher Team,Kroot Carnivores",
-	"elites": "KROOTOX RIDERS,KROOT SHAPER,XV25 STEALTH BATTLESUITS,XV8 CRISIS BATTLESUITS,XV8 CRISIS BODYGUARDS,XV95 GHOSTKEEL BATTLESUIT,XV104 RIPTIDE BATTLESUIT,FIRESIGHT MARKSMAN",
-	"fastattack": "KROOT HOUNDS,PATHFINDER TEAM,TX4 PIRANHAS,TACTICAL DRONES,VESPID STINGWINGS",
-	"transport": "TY7 DEVILFISH",
-	"heavysupport": "MV71 SNIPER DRONES,TX7 HAMMERHEAD GUNSHIP,XV88 BROADSIDE BATTLESUITS",
-	"flyers": "AX3 RAZORSHARK STRIKE FIGHTER,AX39 SUN SHARK BOMBER,TX78 SKY RAY GUNSHIP",
-	"lord": "KV128 STORMSURGE",
-	"fortifications": "TIDEWALL DRONEPORT,TIDEWALL SHIELDLINE,TIDEWALL GUNRIG"
+	"hq": "Aun’Shi,Aun’Va,Cadre Fireblade,Commander,Commander in XV86 Coldstar Battlesuit,Commander Farsight,Commander Shadowsun,Ethereal,Longstrike",
+	"troops": "Breacher Team,Strike Team,Kroot Carnivores",
+	"elites": "Firesight Marksman,Krootox Riders,Kroot Sharper,XV25 Stealth Battlesuits,XV8 Crisis Battlesuits,XV8 Crisis Bodyguards,XV95 Ghostkeel Battlesuits,XV104 Riptide Battlesuits",
+	"fastattack": "Kroot Hounds,Pathfinder Team,Tactical DronesTX4 Piranhas,,Vespid Stingwings",
+	"transport": "TY7 Devilfish",
+	"heavysupport": "MV71 Sniper Drones,TX7 Hammerhead Gunship,XV88 Broadside Battlesuits",
+	"flyers": "AX3 Razorshark Strike Fighter,AX39 Sun Shark Bomber,TX78 SKY RAY GUNSHIP",
+	"lord": "KV128 Stormsurge,KX138 Ta'Unar Supremacy Armour",
+	"fortifications": "Tidewall Droneport,,Tidewall GunrigTidewall Shieldline"
 }
