@@ -1,6 +1,90 @@
-[
- {
-   "Unit": "Commander",
+{
+
+ "Aun’Shi":[
+    {
+     "Unit": "Aun’Shi",
+     "Points": "76",
+     "Models Per Unit": "1",
+     "Power": "6",
+     "Movement": "8\"",
+     "Weapon Skill": "3+",
+     "Balistic Skill": "2+",
+     "Strength": "5",
+     "Toughness": "5",
+     "Wounds": "6",
+     "Attacks": "4",
+     "Leadership": "9",
+     "Saves": "3+",
+     "Abilites": "For the Greater Good, Master of War, Manta Strike",
+     "Faction Keywords": "T'au Empire, <Sept>",
+     "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+     "Weapons": [
+       "Airbursting Fragmentation Projector",
+       "Burst Cannon",
+       "Cyclic Ion Blaster",
+       "Flamer",
+       "Fusion Blaster",
+       "Missile Pod",
+       "Plasma Rifle"
+     ],
+     "Support System": [
+       "Advanced Targeting System",
+       "Counterfire Defence System",
+       "Drone Controller",
+       "Early Warning Override",
+       "Multi-tracker",
+       "Shield Generator",
+       "Stimulant Injector",
+       "Target Lock",
+       "Velocity Tracker"
+     ]
+   }
+  ],
+
+ "Aun’Va":[
+   {
+    "Unit": "Aun’Va",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+    }
+  ],
+
+ "Cadre Fireblade":[
+  {
+   "Unit": "Cadre Fireblade",
    "Points": "76",
    "Models Per Unit": "1",
    "Power": "6",
@@ -16,7 +100,6 @@
    "Abilites": "For the Greater Good, Master of War, Manta Strike",
    "Faction Keywords": "T'au Empire, <Sept>",
    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
-
    "Weapons": [
      "Airbursting Fragmentation Projector",
      "Burst Cannon",
@@ -26,7 +109,6 @@
      "Missile Pod",
      "Plasma Rifle"
    ],
-
    "Support System": [
      "Advanced Targeting System",
      "Counterfire Defence System",
@@ -39,5 +121,212 @@
      "Velocity Tracker"
    ]
  }
+],
 
-]
+ "Commander":[
+   {
+    "Unit": "Commander",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+  }
+
+ ],
+
+ "Commander in XV86 Coldstar Battlesuit":[
+  {
+    "Unit": "Commander in XV86 Coldstar Battlesuit",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+  }
+ ],
+
+ "Commander Farsight":[
+  {
+    "Unit": "Commander Farsight",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+  }
+ ],
+
+ "Commander Shadowsun":[
+  {
+    "Unit": "Commander Shadowsun",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+  }
+ ],
+
+ "Ethereal,Longstrike":[
+  {
+    "Unit": "Ethereal,Longstrike",
+    "Points": "76",
+    "Models Per Unit": "1",
+    "Power": "6",
+    "Movement": "8\"",
+    "Weapon Skill": "3+",
+    "Balistic Skill": "2+",
+    "Strength": "5",
+    "Toughness": "5",
+    "Wounds": "6",
+    "Attacks": "4",
+    "Leadership": "9",
+    "Saves": "3+",
+    "Abilites": "For the Greater Good, Master of War, Manta Strike",
+    "Faction Keywords": "T'au Empire, <Sept>",
+    "Keywords": "Battlesuit, Character, Ject Pack, Fly, Commander",
+    "Weapons": [
+      "Airbursting Fragmentation Projector",
+      "Burst Cannon",
+      "Cyclic Ion Blaster",
+      "Flamer",
+      "Fusion Blaster",
+      "Missile Pod",
+      "Plasma Rifle"
+    ],
+    "Support System": [
+      "Advanced Targeting System",
+      "Counterfire Defence System",
+      "Drone Controller",
+      "Early Warning Override",
+      "Multi-tracker",
+      "Shield Generator",
+      "Stimulant Injector",
+      "Target Lock",
+      "Velocity Tracker"
+    ]
+  }
+ ]
+
+}
